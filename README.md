@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backend**
 
-- 👨‍💻 All of my projects are available at [https://tushalraj.vercel.app/](https://tushalraj.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://tushalraj.vercel.app/](https://tushalraj-three.vercel.app/)
 
 - 💬 Ask me about **React, HTML and CSS**
 
